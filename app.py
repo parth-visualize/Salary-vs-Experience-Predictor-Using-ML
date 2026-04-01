@@ -29,6 +29,7 @@ if st.checkbox("Show Dataset and Regression Line"):
     line_y=model.predict(line_x)
     ax.plot(line_x, line_y,color="red", label="Regression line")
 
+    
     ax.set_xlabel("Years of Experience")
     ax.set_ylabel("Salary")
     ax.legend()
