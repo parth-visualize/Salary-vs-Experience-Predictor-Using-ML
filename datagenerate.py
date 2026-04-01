@@ -1,6 +1,7 @@
 import numpy as np 
 import pandas as pd
 
+
 # Generate synthetic data
 np.random.seed(42)
 years_exp = np.random.uniform (0, 10, 100)
