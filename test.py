@@ -3,6 +3,7 @@ import pandas as pd
 from sklearn.metrics import r2_score,mean_absolute_error
 import pickle
 
+
 # Load Model and Data
 with open("model.pkl","rb") as f:
     model=pickle.load(f)
