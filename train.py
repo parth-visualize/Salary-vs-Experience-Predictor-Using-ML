@@ -3,6 +3,7 @@ import pandas as pd
 from sklearn.linear_model import LinearRegression
 import pickle
 
+
 # load Dataset
 df=pd.read_csv("salary_data.csv")
 
