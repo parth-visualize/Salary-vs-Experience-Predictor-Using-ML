@@ -157,13 +157,8 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 ## 👤 Author
 
-**parth-visualize**  
+**Parth**  
 GitHub: [@parth-visualize](https://github.com/parth-visualize)
+If you like this project, feel free to ⭐ the repository.
